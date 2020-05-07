@@ -13,6 +13,3 @@ Each project of the LTW-I has its own folder:
 - `ML_space_debris_motions`: A Machine Learning approach to distinguish between regular and chaotic
 motions of space debris in the geopotential approximation
 - `Asteroids_families`: Asteroid families in the proper elements space
-
-(test)
-testests
