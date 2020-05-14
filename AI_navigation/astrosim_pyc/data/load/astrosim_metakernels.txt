@@ -1,0 +1,14 @@
+\begindata
+
+PATH_VALUES  = ( 'C:/Users/pepr/Documents/repos/astroSim/source/astrosim/data/kernels')
+
+PATH_SYMBOLS = ( 'ASTROSIM_DATA')
+ 
+KERNELS_TO_LOAD = ( '$ASTROSIM_DATA/lsk/naif0012.tls',
+            '$ASTROSIM_DATA/spk/planets/de405.bsp',
+            '$ASTROSIM_DATA/spk/asteroids/lutetia.bsp',
+		    '$ASTROSIM_DATA/pck/gm_de431.tpc',
+		    '$ASTROSIM_DATA/pck/pck00010_astrosim.tpc',
+		    '$ASTROSIM_DATA/pck/de403_masses.tpc')
+
+\begintext
