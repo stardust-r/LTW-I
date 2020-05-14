@@ -1,6 +1,6 @@
 \begindata
 
-PATH_VALUES  = ( 'C:/Users/pepr/Documents/repos/astroSim/source/astrosim/data/kernels')
+PATH_VALUES  = ( 'kernels')
 
 PATH_SYMBOLS = ( 'ASTROSIM_DATA')
  
@@ -12,3 +12,5 @@ KERNELS_TO_LOAD = ( '$ASTROSIM_DATA/lsk/naif0012.tls',
 		    '$ASTROSIM_DATA/pck/de403_masses.tpc')
 
 \begintext
+
+PATH_VALUES  = ( 'C:/Users/pepr/Documents/repos/astroSim/source/astrosim/data/kernels')
