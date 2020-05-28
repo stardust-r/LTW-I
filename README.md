@@ -1,4 +1,4 @@
-# LTW-I
+# LTW-I test
 This repository is intented to host the code and documents associated to the different projects carried out during the Stardust-R Local Training Workshop I, Madrid, May 18-21.
 
 * As a workshop mentor, you are encouraged to commit, to the master branch, the supporting code files that help attendees in the development of the project tasks. Use a different subfolder named after the name of your project.
